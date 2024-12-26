@@ -224,7 +224,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed">
-                "Processo super rápido e fácil. Consegui um ótimo desconto no seguro do meu carro e o atendimento foi excelente!"
+                &quot;Processo super rápido e fácil. Consegui um ótimo desconto no seguro do meu carro e o atendimento foi excelente!&quot;
               </p>
               <div className="mt-4 flex text-secondary">
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -257,7 +257,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed">
-                "Incrível como foi simples fazer a cotação. Em poucos minutos recebi várias opções e escolhi a melhor para mim. Super recomendo!"
+                &quot;Incrível como foi simples fazer a cotação. Em poucos minutos recebi várias opções e escolhi a melhor para mim. Super recomendo!&quot;
               </p>
               <div className="mt-4 flex text-secondary">
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -290,7 +290,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed">
-                "O suporte foi excepcional! Tive algumas dúvidas e a equipe me ajudou prontamente. Consegui um ótimo seguro com um preço justo."
+                &quot;O suporte foi excepcional! Tive algumas dúvidas e a equipe me ajudou prontamente. Consegui um ótimo seguro com um preço justo.&quot;
               </p>
               <div className="mt-4 flex text-secondary">
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
