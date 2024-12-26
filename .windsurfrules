@@ -1,0 +1,95 @@
+**Prompt para criar projeto no Winsurf: Página de Cotação de Seguro Auto**
+
+**Nome do Projeto:** Seguro Auto Online - Compara
+
+**Descrição Geral:**  
+Criação de uma landing page responsiva para cotação de seguro auto, com foco em design moderno e conversão. A página deve ter uma oferta clara de desconto, integração com formulários para cotação e botões de chamada para ação (CTA). Deve também incluir seções informativas, contatos e métodos de pagamento aceitos.
+
+---
+
+**Estrutura do Projeto**
+
+### **1. Cabeçalho (Header):**
+
+- Logotipo no canto superior esquerdo.
+- Fundo azul em degradê.
+- Botão de navegação com link para contato e ajuda.
+
+### **2. Seção Principal (Hero Section):**
+
+- **Título de destaque:**
+  - Texto: "Contrate seu Seguro Auto com até **25% OFF**".
+  - Desconto em destaque na cor azul mais claro.
+- **Texto Descritivo:**
+  - "Ofertas a partir de R$ 1000 por ano, parcelando em até 12 vezes. Cote, compare e contrate online."
+- **Campo de Aplicação de Cupom (checkbox):**
+  - Opção: "Aplicar cupom NATAL25%"
+  - Mensagem de validade: "Válido até 01/01/2023".
+- **Botão CTA principal (amarelo):**
+  - Texto: "Cotar meu seguro".
+  - Deve redirecionar para o formulário de cotação.
+
+### **3. Benefícios (Seção Informativa):**
+
+- **Blocos com ícones e texto:**
+
+  1. **Muitas ofertas**
+     - Ícone: Documento (arquivo).
+     - Texto: "Trabalhamos com as melhores seguradoras do país e oferecemos a maior variedade de planos."
+  2. **Preços baixíssimos**
+     - Ícone: Mão com polegar para cima.
+     - Texto: "Garantimos o melhor preço direto na sua tela, sem precisar negociar. Cotação instantânea com preços reais."
+  3. **100% online**
+     - Ícone: Computador.
+     - Texto: "Contrate seu seguro de carro online em minutos. Se precisar, nossos especialistas estão sempre disponíveis para ajudar."
+
+- **Botão CTA secundário (azul):**
+  - Texto: "Cotar meu seguro".
+
+### **4. Rodapé (Footer):**
+
+- **Contato:**
+
+  - Título: "Fale com a gente"
+  - Telefone: (11) 5039 0675
+  - E-mail: meajuda@comparaonline.com
+  - Ícone de WhatsApp com link.
+  - Link: "Ir ao centro de ajuda".
+
+- **Formas de Pagamento:**
+
+  - Ícones de cartão de crédito (Visa, Mastercard, Elo).
+  - Ícone de boleto bancário.
+
+- **Links Legais:**
+
+  - ReclameAqui, Política de Privacidade e Termos & Condições.
+
+- **Direitos Autorais:**
+
+  - Texto: "© 2024 ComparaOnline.com é uma marca registrada de Compara Online S.A."
+
+- **Ícones Sociais:**
+  - LinkedIn, Instagram e Facebook.
+
+---
+
+**Funcionalidades e Requisitos Técnicos:**
+
+1. **Responsividade:** Deve funcionar perfeitamente em dispositivos móveis e desktops.
+2. **Validação do Formulário:** Campo de cupom e formulário devem validar os dados antes de prosseguir.
+3. **Integração com APIs:** Conectar formulário de cotação com API para buscar valores atualizados de seguros.
+4. **Botão de WhatsApp:** Iniciar chat diretamente com o suporte pelo aplicativo.
+5. **Design Moderno:** Utilizar cores e estilos similares ao exemplo fornecido na imagem, mantendo tons de azul e detalhes em amarelo para os botões principais.
+6. **Animações leves:** Aplicar pequenos efeitos ao passar o mouse nos botões e links.
+7. **SEO Otimizado:** Estrutura com tags semânticas para melhor ranqueamento em buscadores.
+
+---
+
+**Observações Adicionais:**
+
+- Utilizar fontes modernas como Poppins ou Open Sans.
+- Garantir que os botões tenham feedback visual ao serem clicados.
+- Implementar fallback para imagens e links em caso de erro de carregamento.
+
+Este prompt pode ser diretamente utilizado no Winsurf para criar o projeto! Caso precise de ajustes adicionais, avise-me.
