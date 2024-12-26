@@ -116,6 +116,14 @@ export default function Home() {
       {/* Benefits Section */}
       <section className="py-20 bg-gray-100">
         <div className="container mx-auto px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              Por que escolher a APV Seguros?
+            </h2>
+            <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+              Oferecemos as melhores soluções em seguros auto, com preços competitivos e atendimento personalizado para sua tranquilidade
+            </p>
+          </div>
           <div className="grid md:grid-cols-3 gap-8">
             {/* Benefit 1 */}
             <div className="bg-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
@@ -328,6 +336,25 @@ export default function Home() {
                 ))}
               </div>
             </div>
+          </div>
+
+          <div className="text-center mt-12">
+            <button className="bg-secondary hover:bg-secondary-dark text-gray-900 font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2 mx-auto">
+              Cotar meu seguro
+              <svg
+                className="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M9 5l7 7-7 7"
+                />
+              </svg>
+            </button>
           </div>
         </div>
       </section>
