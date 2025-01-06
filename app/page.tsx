@@ -66,7 +66,7 @@ export default function Home() {
               </p>
               <div className="flex items-center gap-4 flex-wrap">
                 <button className="bg-secondary hover:bg-secondary-dark text-gray-900 font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2">
-                  Cotar meu seguro
+                  Protejer meu veículo
                   <svg
                     className="w-5 h-5"
                     fill="none"
@@ -118,10 +118,11 @@ export default function Home() {
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Por que escolher a APV Seguros?
+              Por que escolher a APV?
             </h2>
             <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-              Oferecemos as melhores soluções em seguros auto, com preços competitivos e atendimento personalizado para sua tranquilidade
+              Oferecemos as melhores soluções em Proteção Veicular, com preços
+              competitivos e atendimento personalizado para sua tranquilidade
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -140,7 +141,7 @@ export default function Home() {
                 Muitas ofertas
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Trabalhamos com as melhores seguradoras do país e oferecemos a
+                Trabalhamos com as melhores proteções do país e oferecemos a
                 maior variedade de planos.
               </p>
             </div>
@@ -180,7 +181,7 @@ export default function Home() {
                 100% online
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                Contrate seu seguro de carro online em minutos. Se precisar,
+                Contrate a proteçào do seu carro online em minutos. Se precisar,
                 nossos especialistas estão sempre disponíveis para ajudar.
               </p>
             </div>
@@ -188,7 +189,7 @@ export default function Home() {
 
           <div className="text-center mt-12">
             <button className="bg-secondary hover:bg-secondary-dark text-gray-900 font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2 mx-auto">
-              Cotar meu seguro
+              Protejer meu veículo
               <svg
                 className="w-5 h-5"
                 fill="none"
@@ -215,8 +216,8 @@ export default function Home() {
               O que nossos clientes dizem
             </h2>
             <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-              Veja a experiência de quem já contratou seu seguro conosco e
-              aproveite as mesmas vantagens
+              Veja a experiência de quem já contratou sua proteção veicular
+              conosco e aproveite as mesmas vantagens
             </p>
           </div>
 
@@ -238,7 +239,9 @@ export default function Home() {
                 </div>
                 <div className="ml-4">
                   <h3 className="font-semibold text-gray-900">Roberto Silva</h3>
-                  <p className="text-gray-500 text-sm">São Paulo, SP</p>
+                  <p className="text-gray-500 text-sm">
+                    Jaboatão dos Guararapes, PE
+                  </p>
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed mb-6">
@@ -276,7 +279,7 @@ export default function Home() {
                 </div>
                 <div className="ml-4">
                   <h3 className="font-semibold text-gray-900">Marina Costa</h3>
-                  <p className="text-gray-500 text-sm">Rio de Janeiro, RJ</p>
+                  <p className="text-gray-500 text-sm">Candeias, PE</p>
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed mb-6">
@@ -315,7 +318,9 @@ export default function Home() {
                 </div>
                 <div className="ml-4">
                   <h3 className="font-semibold text-gray-900">Pedro Santos</h3>
-                  <p className="text-gray-500 text-sm">Curitiba, PR</p>
+                  <p className="text-gray-500 text-sm">
+                    Cabo de Santo Agostinho,PE
+                  </p>
                 </div>
               </div>
               <p className="text-gray-600 leading-relaxed mb-6">
@@ -340,7 +345,7 @@ export default function Home() {
 
           <div className="text-center mt-12">
             <button className="bg-secondary hover:bg-secondary-dark text-gray-900 font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 flex items-center gap-2 mx-auto">
-              Cotar meu seguro
+              Protejer meu veículo
               <svg
                 className="w-5 h-5"
                 fill="none"
@@ -389,7 +394,7 @@ export default function Home() {
                       d="M3 7l9 6 9-6"
                     />
                   </svg>
-                  contato@apvseguros.com
+                  contato@apvprotecaoveicular.com
                 </p>
                 <div className="flex items-center gap-2">
                   <Image
@@ -478,7 +483,7 @@ export default function Home() {
 
           {/* Copyright */}
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-sm">
-            <p> 2024 APV Seguros. Todos os direitos reservados.</p>
+            <p> 2024 APV Proteção Veicular. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
