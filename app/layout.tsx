@@ -5,8 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "APV Seguros - Proteção para seu veículo",
-  description: "Cotação de seguro auto com os melhores preços e coberturas do mercado.",
+  title: "APV Proteção Veicular",
+  description:
+    "Cotação de Proteção Veicular com os melhores preços e coberturas do mercado.",
   icons: {
     icon: "/icon.png",
     shortcut: "/icon.png",
